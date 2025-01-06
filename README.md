@@ -48,14 +48,28 @@ Curiosity Drives My Passion for Tech
   </a>
 </p>
 
+<p align="center">
+
+
 # 📊 Github statistics:
-![](https://github-readme-stats.vercel.app/api?username=je7remy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=je7remy&theme=tokyonight&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=je7remy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=je7remy&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=je7remy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!--- trophy (start) -->
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=je7remy&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+
+</p>        
+<!--- stats (end) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=je7remy&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -73,4 +87,6 @@ Curiosity Drives My Passion for Tech
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 Credit: [je7remy](https://github.com/je7remy)
