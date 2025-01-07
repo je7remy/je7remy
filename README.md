@@ -30,23 +30,26 @@ Curiosity Drives My Passion for Tech
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!-- Tech Stack Icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,docker,linux,git,github,py,vscode,c,cs,bootstrap,godot,bash,blender,kali,photoshop,php,networking,renpy&perline=10" />
-   
-  </a>
-</p>
-
 <!-- Custom Icons for Office and Security -->
 <p align="center">
   <a href="https://www.microsoft.com/microsoft-365">
     <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office" />
   </a>
-  <a href="https://www.hackthebox.com">
-    <img src="https://img.shields.io/badge/Security-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security" />
+  <a href="https://www.cybersecurity.com">
+    <img src="https://img.shields.io/badge/Seguridad-Protegida-blue?style=for-the-badge&logo=lock&logoColor=white" alt="Seguridad" />
   </a>
 </p>
+
+
+
+<!-- Tech Stack Icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,docker,linux,git,github,py,vscode,c,cs,bootstrap,godot,bash,blender,kali,photoshop,php,firebase,obsidian,&perline=10" />
+   
+  </a>
+</p>
+
 
 <p align="center">
 
