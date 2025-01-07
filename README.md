@@ -32,11 +32,11 @@ Curiosity Drives My Passion for Tech
 </div>
 <!-- Custom Icons for Office and Security -->
 <p align="center">
-  <a href="https://www.microsoft.com/microsoft-365">
+  <a href="">
     <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office" />
   </a>
-  <a href="https://www.cybersecurity.com">
-    <img src="https://img.shields.io/badge/Seguridad-Protegida-blue?style=for-the-badge&logo=lock&logoColor=white" alt="Seguridad" />
+  <a href="">
+    <img src="https://img.shields.io/badge/Seguridad-green?style=for-the-badge&logo=lock&logoColor=white" alt="Seguridad" />
   </a>
 </p>
 
