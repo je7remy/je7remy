@@ -69,7 +69,7 @@ La curiosidad impulsa mi pasión por la tecnología
 <!--- stats (end) -->
 
 ---
-[!](https://visitcount.itsvg.in)
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
