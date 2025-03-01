@@ -50,7 +50,6 @@ La curiosidad impulsa mi pasión por la tecnología
 
 # 📊 Estadísticas de GitHub:
 
-# 📊 Github statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=je7remy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
