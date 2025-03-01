@@ -50,11 +50,14 @@ La curiosidad impulsa mi pasión por la tecnología
 
 # 📊 Estadísticas de GitHub:
 
-!
+# 📊 Github statistics:
 
-!
+![](https://github-readme-stats.vercel.app/api?username=je7remy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-!
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=je7remy&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=je7remy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--- trophy (start) -->
 
