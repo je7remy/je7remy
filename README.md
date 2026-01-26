@@ -16,6 +16,9 @@ La curiosidad impulsa mi pasión por la tecnología
 
 📫 Contáctame en [je7remy@gmail.com](mailto:je7remy@gmail.com) para cualquier consulta o colaboración.
 
+Nota personal de estudio:
+Modelo de práctica: FiM | 3 | iz | ZR | Kzf | LE | A2 (formato continuo sin separaciones para pruebas técnicas).
+
 ---
 
 ## Tecnologías que domino 👨🏻‍💻
