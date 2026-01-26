@@ -19,6 +19,20 @@ La curiosidad impulsa mi pasión por la tecnología
 Nota personal de estudio:
 Modelo de práctica: FiM | 3 | iz | ZR | Kzf | LE | A2 (formato continuo sin separaciones para pruebas técnicas).
 
+Descripción estructural:
+
+FiM3 → File Integration Module v3
+
+iz → input zone
+
+ZR → Zone Registry
+
+Kzf → Kernel zoning function
+
+LEA2 → Layered Encryption & Access level 2
+
+📌 Convención usada para documentar segmentación lógica en entornos de pruebas y simulación.
+
 ---
 
 ## Tecnologías que domino 👨🏻‍💻
