@@ -45,7 +45,7 @@ status:      Open to remote opportunities and collaboration
   <tr>
     <td width="30%" valign="top">
       <br/>
-      <strong>SGCM</strong><br/>
+      <strong>SGCM / HTQ_Citas </strong><br/>
       <sub>Sistema de Gestión de Citas Médicas</sub>
       <br/><br/>
       <a href="https://github.com/je7remy/HTQ_Citas">
@@ -125,7 +125,7 @@ Cybersecurity  ████████████       70%
   src="https://streak-stats.demolab.com?user=je7remy&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
 />
 
-<br/><br/>
+<br/>
 
 <img
   width="60%"
