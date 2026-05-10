@@ -117,7 +117,7 @@ Cybersecurity  ████████████       70%
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=je7remy&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=je7remy&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
