@@ -1,4 +1,3 @@
-```markdown
 <!-- ===========================================================
      Jeremy Pérez · GitHub Profile README
      Built with care — minimal, deliberate, professional
@@ -159,4 +158,3 @@ Cybersecurity  ████████████       70%
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A085,50:1A6FA8,100:0F4C81&height=120&section=footer" alt="Footer" width="100%" />
-```
