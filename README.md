@@ -126,7 +126,26 @@ Cybersecurity  ████████████       70%
 <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
+<div align="center">
 
+<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+</div>
+
+<br/>
+
+## ` ` Most Used Technologies
+
+```text
+Python         ████████████████████   95%
+FastAPI        ██████████████████     90%
+PostgreSQL     █████████████████      85%
+Docker         ████████████████       80%
+SQLAlchemy     ███████████████        75%
+TailwindCSS    █████████████          70%
+Nginx          ████████████           65%
+GitHub Actions ███████████            60%
+```
 <br/>
 
 ## ` ` Currently
