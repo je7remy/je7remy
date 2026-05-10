@@ -123,7 +123,7 @@ Cybersecurity  ████████████       70%
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most%20Used%20Technologies&theme=github_dark&bg=0D1117&border=0D1117&titleColor=58A6FF&lineCount=8&line1=Python%2CPython%2C95%3B&line2=FastAPI%2CFastAPI%2C90%3B&line3=PostgreSQL%2CPostgreSQL%2C85%3B&line4=Docker%2CDocker%2C80%3B&line5=SQLAlchemy%2CSQLAlchemy%2C75%3B&line6=TailwindCSS%2CTailwindCSS%2C70%3B&line7=Nginx%2CNginx%2C65%3B&line8=GitHub%20Actions%2CGitHubActions%2C60%3B" />
+<img width="60%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most%20Used%20Technologies&background=0D1117&borderRadius=16&titleColor=58A6FF&lineCount=8&line1=Python%2C58A6FF%2C95%3B&line2=FastAPI%2C58A6FF%2C90%3B&line3=PostgreSQL%2C58A6FF%2C85%3B&line4=Docker%2C58A6FF%2C80%3B&line5=SQLAlchemy%2C58A6FF%2C75%3B&line6=TailwindCSS%2C58A6FF%2C70%3B&line7=Nginx%2C58A6FF%2C65%3B&line8=GitHub%20Actions%2C58A6FF%2C60%3B" />
 
 </div>
 
