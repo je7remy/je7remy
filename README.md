@@ -1,5 +1,5 @@
 <!-- ===========================================================
-     Jeremy Pérez · GitHub Profile README
+     Jeremy de la Cruz · GitHub Profile README
      Built with care — minimal, deliberate, professional
      =========================================================== -->
 
