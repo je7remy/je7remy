@@ -117,16 +117,13 @@ Cybersecurity  ████████████       70%
 
 <div align="center">
 
-<a href="https://github.com/je7remy">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=je7remy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=je7remy&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=je7remy&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 
-<br/>
+<img height="170" src="https://streak-stats.demolab.com?user=je7remy&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
-<a href="https://github.com/je7remy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=je7remy&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=" width="62%" />
-</a>
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
