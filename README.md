@@ -123,29 +123,10 @@ Cybersecurity  ████████████       70%
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<img width="60%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=SGCM%20Tech%20Stack&theme=github_dark&lineCount=8&line1=Python%2CPython%2C95%3B&line2=FastAPI%2CFastAPI%2C90%3B&line3=PostgreSQL%2CPostgreSQL%2C85%3B&line4=Docker%2CDocker%2C80%3B&line5=SQLAlchemy%2CSQLAlchemy%2C75%3B&line6=TailwindCSS%2CTailwindCSS%2C70%3B&line7=Nginx%2CNginx%2C65%3B&line8=GitHub%20Actions%2CGitHubActions%2C60%3B" />
 
 </div>
 
-<br/>
-
-## ` ` Most Used Technologies
-
-```text
-Python         ████████████████████   95%
-FastAPI        ██████████████████     90%
-PostgreSQL     █████████████████      85%
-Docker         ████████████████       80%
-SQLAlchemy     ███████████████        75%
-TailwindCSS    █████████████          70%
-Nginx          ████████████           65%
-GitHub Actions ███████████            60%
-```
 <br/>
 
 ## ` ` Currently
