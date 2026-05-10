@@ -123,7 +123,7 @@ Cybersecurity  ████████████       70%
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
