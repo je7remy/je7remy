@@ -1,55 +1,49 @@
-<!--------------------------------------------------------------------------
-  Jeremy de la Cruz · GitHub Profile README · La Vega, RD
-  Fusion: hacker + slice + catppuccin + brackets + trophies + devicons
---------------------------------------------------------------------------->
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     ║   JEREMY DE LA CRUZ · GitHub Profile · La Vega, RD               ║
+     ║   Art direction: dark · cyberpunk minimal · neon indigo accent   ║
+     ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════════════════════════════════════
-     HERO BANNER  —  type=slice diagonal, cinematic
-════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,40:0a0f1e,75:0f172a,100:1e1b4b&height=310&section=header&text=Jeremy%20de%20la%20Cruz&fontAlign=72&fontAlignY=38&fontSize=48&fontColor=CDD6F4&desc=Backend%20Engineer%20%C2%B7%20Infrastructure%20%C2%B7%20La%20Vega%2C%20RD%20%F0%9F%87%A9%F0%9F%87%B4&descAlign=72&descAlignY=60&descSize=13&descColor=6C7086&animation=fadeIn" width="100%"/>
+<!-- ░░░░░░░░░░░░░░░  HERO  ░░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:080808,35:0a0e1a,70:11162a,100:1e1b4b&height=320&section=header&text=Jeremy%20de%20la%20Cruz&fontAlign=72&fontAlignY=37&fontSize=46&fontColor=CDD6F4&desc=%E2%97%86%20%20backend%20engineer%20%20%E2%97%86%20%20infrastructure%20%20%E2%97%86%20%20la%20vega%2C%20rd&descAlign=72&descAlignY=58&descSize=12&descColor=585B70&animation=fadeIn"/>
 
-<!-- ═══════════════════════════════════════════════════
-     ASCII ART NOMBRE  —  hacker vibes, identidad única
-════════════════════════════════════════════════════════ -->
 <div align="center">
 
+<!-- glyph signature -->
 ```
-     ██╗███████╗██████╗ ███████╗███╗   ███╗██╗   ██╗
-     ██║██╔════╝██╔══██╗██╔════╝████╗ ████║╚██╗ ██╔╝
-     ██║█████╗  ██████╔╝█████╗  ██╔████╔██║ ╚████╔╝
-     ██║██╔══╝  ██╔══██╗██╔══╝  ██║╚██╔╝██║  ╚██╔╝
-     ██║███████╗██║  ██║███████╗██║ ╚═╝ ██║   ██║
-     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝   ╚═╝
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ╦╔═╗╦═╗╔═╗╔╦╗╦ ╦   ·   build · ship · document · repeat
+   ║║╣ ╠╦╝║╣ ║║║╚╦╝   ·   quality over volume — always
+  ╚╝╚═╝╩╚═╚═╝╩ ╩ ╩    ·   la vega · república dominicana
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=89B4FA&center=true&vCenter=true&width=600&lines=building+systems+that+explain+themselves+%E2%80%94;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+CI%2FCD;quality+over+volume.+always.;currently+shipping+SGCM+%E2%86%92+HTQPJB+%F0%9F%8F%A5" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1100&color=89B4FA&center=true&vCenter=true&width=620&lines=building+systems+that+explain+themselves+%E2%80%94;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+CI%2FCD;tests+%C2%B7+ci%2Fcd+%C2%B7+documented+decisions;currently+shipping+SGCM+%E2%86%92+HTQPJB+hospital+%F0%9F%8F%A5" alt="typing"/>
 
 <br/>
 
-<a href="mailto:je7remy@gmail.com"><img src="https://img.shields.io/badge/Gmail-11111b?style=for-the-badge&logo=gmail&logoColor=89B4FA&labelColor=11111b"/></a>
-<a href="https://www.linkedin.com/in/jeremy-jos%C3%A9-de-la-cruz-p%C3%A9rez-0a49b9237/"><img src="https://img.shields.io/badge/LinkedIn-11111b?style=for-the-badge&logo=linkedin&logoColor=89B4FA&labelColor=11111b"/></a>
-<a href="https://github.com/je7remy"><img src="https://img.shields.io/badge/@je7remy-11111b?style=for-the-badge&logo=github&logoColor=89B4FA&labelColor=11111b"/></a>
-<img src="https://komarev.com/ghpvc/?username=je7remy&style=for-the-badge&color=89B4FA&labelColor=11111b&label=VIEWS"/>
+<a href="mailto:je7remy@gmail.com"><img src="https://img.shields.io/badge/Gmail-0b0b14?style=for-the-badge&logo=gmail&logoColor=89B4FA&labelColor=0b0b14"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/jeremy-jos%C3%A9-de-la-cruz-p%C3%A9rez-0a49b9237/"><img src="https://img.shields.io/badge/LinkedIn-0b0b14?style=for-the-badge&logo=linkedin&logoColor=89B4FA&labelColor=0b0b14"/></a>&nbsp;
+<a href="https://github.com/je7remy"><img src="https://img.shields.io/badge/@je7remy-0b0b14?style=for-the-badge&logo=github&logoColor=89B4FA&labelColor=0b0b14"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=je7remy&style=for-the-badge&color=89B4FA&labelColor=0b0b14&label=VIEWS"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     DIVIDER
-════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
+<!-- ░░░░░░░░░░░  SECTION RULE  ░░░░░░░░░░░ -->
+<div align="center">
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b14,100:1e1b4b&height=2&section=header"/>
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0b0b14&height=2&section=header"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     ABOUT  —  texto + gif lateral (slice vibes)
-════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░ -->
 <table width="100%">
 <tr>
-<td width="56%" valign="middle">
+<td width="57%" valign="middle">
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="26"/> &nbsp;`〔 whoami 〕`
+### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="24"/> &nbsp;`〔  whoami  〕`
 
 Estudiante final de **Licenciatura en Informática** en la Universidad Nacional Pedro Henríquez Ureña. Especialista de soporte técnico en sector **legal y gubernamental**. Constructor de sistemas que resuelven problemas reales.
 
@@ -66,9 +60,9 @@ status    :  Open to remote & collaboration
 ```
 
 </td>
-<td width="44%" valign="middle" align="center">
+<td width="43%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="295" alt="developer gif"/>
+<img width="295" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="developer"/>
 
 </td>
 </tr>
@@ -76,35 +70,33 @@ status    :  Open to remote & collaboration
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     DIVIDER
-════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
+<div align="center">
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b14,100:1e1b4b&height=2&section=header"/>
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0b0b14&height=2&section=header"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     PROYECTO  —  ASCII box + repo card + tabla features
-════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░  PROJECT  ░░░░░░░░░░░░░░ -->
 <div align="center">
 
-## `〔 PROYECTO DESTACADO 〕`
+### `〔  PROYECTO DESTACADO  〕`
 
 </div>
 
 <br/>
 
 ```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │  SGCM  ·  Sistema de Gestión de Citas Médicas                    │
-  │  Hospital Regional Traumatológico y Quirúrgico Prof. Juan Bosch  │
-  │  ──────────────────────────────────────────────────────────────  │
-  │  ✓  RBAC en dos capas       ✓  JWT + bcrypt                      │
-  │  ✓  Índice único parcial    ✓  Auditoría inmutable               │
-  │  ✓  TIMESTAMPTZ correcto    ✓  39 tests con Pytest               │
-  │  ✓  CI/CD en cada commit    ✓  100% contenedorizado              │
-  │  ✓  15 casos de uso         ✓  3 roles · 5 archivos de prueba    │
-  └──────────────────────────────────────────────────────────────────┘
+   ╭───────────────────────────────────────────────────────────────╮
+   │  SGCM · Sistema de Gestión de Citas Médicas                   │
+   │  Hospital Regional Traumatológico y Quirúrgico Juan Bosch     │
+   ├───────────────────────────────────────────────────────────────┤
+   │  ▸ RBAC en dos capas        ▸ JWT + bcrypt                    │
+   │  ▸ Índice único parcial     ▸ Auditoría inmutable             │
+   │  ▸ TIMESTAMPTZ correcto     ▸ 39 tests con Pytest             │
+   │  ▸ CI/CD en cada commit     ▸ 100% contenedorizado            │
+   │  ▸ 15 casos de uso          ▸ 3 roles · 5 archivos de prueba  │
+   ╰───────────────────────────────────────────────────────────────╯
 ```
 
 <br/>
@@ -114,20 +106,20 @@ status    :  Open to remote & collaboration
 <td width="40%" valign="top" align="center">
 
 <a href="https://github.com/je7remy/HTQ_Citas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=je7remy&repo=HTQ_Citas&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&title_color=89B4FA&icon_color=89B4FA&text_color=9399B2&border_radius=10" width="100%"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=je7remy&repo=HTQ_Citas&theme=catppuccin_mocha&hide_border=true&bg_color=0b0b14&title_color=89B4FA&icon_color=89B4FA&text_color=9399B2&border_radius=10"/>
 </a>
 
 <br/><br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-11111b?style=flat-square&logo=fastapi&logoColor=89B4FA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11111b?style=flat-square&logo=postgresql&logoColor=89B4FA)
-![Docker](https://img.shields.io/badge/Docker-11111b?style=flat-square&logo=docker&logoColor=89B4FA)
-![Nginx](https://img.shields.io/badge/Nginx-11111b?style=flat-square&logo=nginx&logoColor=89B4FA)
-![SQLModel](https://img.shields.io/badge/SQLModel-11111b?style=flat-square&logo=python&logoColor=89B4FA)
-![WeasyPrint](https://img.shields.io/badge/WeasyPrint-11111b?style=flat-square&logo=python&logoColor=89B4FA)
-![Tailwind](https://img.shields.io/badge/Tailwind-11111b?style=flat-square&logo=tailwindcss&logoColor=89B4FA)
-![Pytest](https://img.shields.io/badge/Pytest-11111b?style=flat-square&logo=pytest&logoColor=89B4FA)
-![GH Actions](https://img.shields.io/badge/CI%2FCD-11111b?style=flat-square&logo=githubactions&logoColor=89B4FA)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b0b14?style=flat-square&logo=fastapi&logoColor=89B4FA)
+![SQLModel](https://img.shields.io/badge/SQLModel-0b0b14?style=flat-square&logo=python&logoColor=89B4FA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b14?style=flat-square&logo=postgresql&logoColor=89B4FA)
+![Docker](https://img.shields.io/badge/Docker-0b0b14?style=flat-square&logo=docker&logoColor=89B4FA)
+![Nginx](https://img.shields.io/badge/Nginx-0b0b14?style=flat-square&logo=nginx&logoColor=89B4FA)
+![WeasyPrint](https://img.shields.io/badge/WeasyPrint-0b0b14?style=flat-square&logo=python&logoColor=89B4FA)
+![Tailwind](https://img.shields.io/badge/Tailwind-0b0b14?style=flat-square&logo=tailwindcss&logoColor=89B4FA)
+![Pytest](https://img.shields.io/badge/Pytest-0b0b14?style=flat-square&logo=pytest&logoColor=89B4FA)
+![GH Actions](https://img.shields.io/badge/CI%2FCD-0b0b14?style=flat-square&logo=githubactions&logoColor=89B4FA)
 
 </td>
 <td width="60%" valign="middle">
@@ -152,27 +144,24 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     DIVIDER
-════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
+<div align="center">
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b14,100:1e1b4b&height=2&section=header"/>
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0b0b14&height=2&section=header"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     STACK  —  devicons 4 columnas + for-the-badge por cat.
-════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░  STACK  ░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-## `〔 STACK TECNOLÓGICO 〕`
+### `〔  STACK TECNOLÓGICO  〕`
 
 <br/>
 
 <table>
 <tr>
-
-<td align="center" width="155">
-<b>Backend & Data</b><br/><br/>
+<td align="center" width="160">
+<sub><b>BACKEND & DATA</b></sub><br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38"/>
 <br/><br/>
@@ -181,9 +170,8 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="38"/>
 </td>
-
-<td align="center" width="155">
-<b>Infrastructure</b><br/><br/>
+<td align="center" width="160">
+<sub><b>INFRASTRUCTURE</b></sub><br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="38"/>
 <br/><br/>
@@ -192,9 +180,8 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38"/>
 </td>
-
-<td align="center" width="155">
-<b>Frontend</b><br/><br/>
+<td align="center" width="160">
+<sub><b>FRONTEND</b></sub><br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/>
 <br/><br/>
@@ -203,9 +190,8 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38"/>
 </td>
-
-<td align="center" width="155">
-<b>Other</b><br/><br/>
+<td align="center" width="160">
+<sub><b>OTHER</b></sub><br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38"/>
 <br/><br/>
@@ -214,42 +200,18 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="38"/>
 </td>
-
 </tr>
 </table>
-
-<br/><br/>
-
-<!-- badges for-the-badge por categoría (readme_definitivo) -->
-
-![Python](https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=89B4FA)
-![FastAPI](https://img.shields.io/badge/FastAPI-11111b?style=for-the-badge&logo=fastapi&logoColor=89B4FA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11111b?style=for-the-badge&logo=postgresql&logoColor=89B4FA)
-![Docker](https://img.shields.io/badge/Docker-11111b?style=for-the-badge&logo=docker&logoColor=89B4FA)
-![Linux](https://img.shields.io/badge/Linux-11111b?style=for-the-badge&logo=linux&logoColor=89B4FA)
-![Nginx](https://img.shields.io/badge/Nginx-11111b?style=for-the-badge&logo=nginx&logoColor=89B4FA)
-![Bash](https://img.shields.io/badge/Bash-11111b?style=for-the-badge&logo=gnubash&logoColor=89B4FA)
-![GH Actions](https://img.shields.io/badge/CI%2FCD-11111b?style=for-the-badge&logo=githubactions&logoColor=89B4FA)
-![JavaScript](https://img.shields.io/badge/JavaScript-11111b?style=for-the-badge&logo=javascript&logoColor=89B4FA)
-![Tailwind](https://img.shields.io/badge/Tailwind-11111b?style=for-the-badge&logo=tailwindcss&logoColor=89B4FA)
-![C](https://img.shields.io/badge/C-11111b?style=for-the-badge&logo=c&logoColor=89B4FA)
-![C#](https://img.shields.io/badge/C%23-11111b?style=for-the-badge&logo=csharp&logoColor=89B4FA)
-![PHP](https://img.shields.io/badge/PHP-11111b?style=for-the-badge&logo=php&logoColor=89B4FA)
-![Godot](https://img.shields.io/badge/Godot-11111b?style=for-the-badge&logo=godotengine&logoColor=89B4FA)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-11111b?style=for-the-badge&logo=hackthebox&logoColor=89B4FA)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     SKILL BARS  —  hacker.txt, diferenciador visual único
-════════════════════════════════════════════════════════ -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**`[backend & data]`**
+**`[ backend · data ]`**
 ```
 Python 3.11+   ████████████████░░  90%
 FastAPI        ███████████████░░░  85%
@@ -257,7 +219,7 @@ PostgreSQL     ██████████████░░░░  80%
 SQLAlchemy     █████████████░░░░░  75%
 SQLite         ████████████░░░░░░  70%
 ```
-**`[infrastructure]`**
+**`[ infrastructure ]`**
 ```
 Docker         ███████████████░░░  85%
 Linux/Bash     ██████████████░░░░  80%
@@ -268,14 +230,14 @@ GitHub Actions ████████████░░░░░░  70%
 </td>
 <td width="50%" valign="top">
 
-**`[frontend]`**
+**`[ frontend ]`**
 ```
 HTML5/CSS3     ███████████████░░░  85%
 JavaScript     ██████████████░░░░  80%
 Tailwind CSS   █████████████░░░░░  75%
 Bootstrap      ██████████░░░░░░░░  60%
 ```
-**`[other]`**
+**`[ other ]`**
 ```
 Cybersecurity  ████████████░░░░░░  70%
 C / C#         ███████████░░░░░░░  65%
@@ -289,55 +251,51 @@ PHP            ██████████░░░░░░░░  60%
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     DIVIDER
-════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
+<div align="center">
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b14,100:1e1b4b&height=2&section=header"/>
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0b0b14&height=2&section=header"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     GITHUB STATS  —  catppuccin_mocha + trophies + graph
-════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░ -->
 <div align="center">
 
-## `〔 GITHUB ACTIVITY 〕`
+### `〔  GITHUB ACTIVITY  〕`
 
 <br/>
 
-<img height="162" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&title_color=89B4FA&text_color=9399B2&icon_color=89B4FA&border_radius=10" alt="stats"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0b0b14&title_color=89B4FA&text_color=9399B2&icon_color=89B4FA&border_radius=10"/>
 &nbsp;
-<img height="162" src="https://streak-stats.demolab.com?user=je7remy&theme=catppuccin-mocha&hide_border=true&background=11111b&ring=89B4FA&fire=89B4FA&currStreakLabel=89B4FA&sideLabels=9399B2&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=6C7086&border_radius=10" alt="streak"/>
+<img height="160" src="https://streak-stats.demolab.com?user=je7remy&theme=catppuccin-mocha&hide_border=true&background=0b0b14&ring=89B4FA&fire=89B4FA&currStreakLabel=89B4FA&sideLabels=9399B2&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=585B70&border_radius=10"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&title_color=89B4FA&text_color=9399B2&border_radius=10" width="36%" alt="langs"/>
+<img width="36%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0b0b14&title_color=89B4FA&text_color=9399B2&border_radius=10"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=je7remy&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" width="90%" alt="trophies"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=je7remy&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=je7remy&bg_color=11111b&color=89B4FA&line=89B4FA&point=CDD6F4&area=true&area_color=89B4FA18&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="92%" alt="activity"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=je7remy&bg_color=0b0b14&color=89B4FA&line=89B4FA&point=CDD6F4&area=true&area_color=89B4FA15&hide_border=true&radius=8&custom_title=Contribution%20Graph"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     DIVIDER
-════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
+<div align="center">
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b14,100:1e1b4b&height=2&section=header"/>
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0b0b14&height=2&section=header"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     STATUS  —  diff block del readme_hacker
-════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░  STATUS  ░░░░░░░░░░░░░░ -->
 <div align="center">
 
-## `〔 EN ESTE MOMENTO 〕`
+### `〔  EN ESTE MOMENTO  〕`
 
 </div>
 
@@ -355,30 +313,28 @@ PHP            ██████████░░░░░░░░  60%
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     DIVIDER
-════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
+<div align="center">
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b14,100:1e1b4b&height=2&section=header"/>
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0b0b14&height=2&section=header"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════
-     FILOSOFÍA  —  Designer.gif + blockquote
-════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░  PHILOSOPHY  ░░░░░░░░░░░░ -->
 <div align="center">
 
-## `〔 FILOSOFÍA 〕`
+### `〔  FILOSOFÍA  〕`
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="30"/>
+<img width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"/>
 
 <br/><br/>
 
-*"Code is communication.*
-*The first reader is always another human — often yourself in six months.*
-*Every architectural decision, every test, every line of documentation*
-*is a message to that future reader."*
+> *"Code is communication.*
+> *The first reader is always another human — often yourself in six months.*
+> *Every architectural decision, every test, every line of documentation*
+> *is a message to that future reader."*
 
 <br/>
 
@@ -386,13 +342,11 @@ PHP            ██████████░░░░░░░░  60%
 
 <br/><br/>
 
-<sub>Crafted with obsession · La Vega, República Dominicana 🇩🇴 · <a href="mailto:je7remy@gmail.com">je7remy@gmail.com</a></sub>
+<sub>crafted with obsession · la vega, república dominicana 🇩🇴 · <a href="mailto:je7remy@gmail.com">je7remy@gmail.com</a></sub>
 
 <br/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════
-     FOOTER WAVING — espejo del slice hero
-════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0f1e,70:1e1b4b,100:312e81&height=140&section=footer" width="100%"/>
+<!-- ░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,30:0a0e1a,70:1e1b4b,100:312e81&height=150&section=footer"/>
