@@ -72,7 +72,7 @@ status    :  Open to remote & collaboration
 <td width="42%" valign="top" align="center">
 
 <a href="https://github.com/je7remy/HTQ_Citas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=je7remy&repo=HTQ_Citas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=8892b0&border_radius=10" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin?username=je7remy&repo=HTQ_Citas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=8892b0&border_radius=10&cache_seconds=1800" width="100%"/>
 </a>
 
 <br/><br/>
