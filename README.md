@@ -12,7 +12,7 @@
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
    ╦╔═╗╦═╗╔═╗╔╦╗╦ ╦   ·   build · ship · document · repeat
-    ║║╣ ╠╦╝║╣ ║║║╚╦╝   ·   quality over volume — always
+ ║║╣ ╠╦╝║╣ ║║║╚╦╝   ·   quality over volume — always
   ╚╝╚═╝╩╚═╚═╝╩ ╩ ╩    ·   la vega · república dominicana
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
