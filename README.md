@@ -109,7 +109,7 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 
 <br/>
 
-> *15 casos de uso · 3 roles RBAC · JWT auth*
+> *16 casos de uso · 3 roles RBAC · JWT auth*
 
 </td>
 </tr>
