@@ -219,8 +219,9 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=8892b0&border_radius=10" width="36%" alt="top langs"/>
-
+<p align="center">
+  <img width="60%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most%20Used%20Technologies&theme=github_dark&lineCount=8&line1=Python%2CPython%2C95%3B&line2=FastAPI%2CFastAPI%2C90%3B&line3=PostgreSQL%2CPostgreSQL%2C85%3B&line4=Docker%2CDocker%2C80%3B&line5=SQLAlchemy%2CSQLAlchemy%2C75%3B&line6=TailwindCSS%2CTailwindCSS%2C70%3B&line7=Nginx%2CNginx%2C65%3B&line8=GitHub%20Actions%2CGitHubActions%2C60%3B"/>
+</p>
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=je7remy&theme=tokyonight&no-frame=true&column=6&margin-w=6&margin-h=6" width="88%" alt="trophies"/>
