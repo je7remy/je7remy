@@ -1,17 +1,25 @@
-<a href="https://github.com/je7remy">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0F2027,70:203A43,100:2C5364&height=260&section=header&text=Jeremy%20de%20la%20Cruz&fontColor=FFFFFF&fontSize=52&fontAlign=50&fontAlignY=42&desc=Backend%20Engineer%20%C2%B7%20Infrastructure%20%C2%B7%20La%20Vega%2C%20RD%20%F0%9F%87%A9%F0%9F%87%B4&descAlign=50&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="header"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,60:111827,100:1e3a5f&height=300&section=header&text=Jeremy%20de%20la%20Cruz&fontAlign=70&fontAlignY=38&fontSize=46&fontColor=ffffff&desc=Backend%20Engineer%20%C2%B7%20Infrastructure%20%C2%B7%20La%20Vega%2C%20RD&descAlign=70&descAlignY=60&descSize=14&descColor=94a3b8&animation=fadeIn" width="100%" alt="header"/>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1600&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+software+with+purpose+%F0%9F%8F%97%EF%B8%8F;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Linux;Tests%2C+CI%2FCD%2C+documented+decisions.;Currently+shipping+SGCM+%F0%9F%8F%A5" alt="typing svg" />
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=4ECDC4&center=true&vCenter=true&width=580&lines=Building+software+with+purpose.;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Linux;Quality+over+volume+%E2%80%94+always.;Currently+shipping+SGCM+%F0%9F%8F%A5" alt="typing"/>
-
-<br/><br/>
-
-[![Gmail](https://img.shields.io/badge/je7remy@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=4ECDC4)](mailto:je7remy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4ECDC4)](https://www.linkedin.com/in/jeremy-jos%C3%A9-de-la-cruz-p%C3%A9rez-0a49b9237/)
-[![GitHub](https://img.shields.io/badge/@je7remy-0d1117?style=for-the-badge&logo=github&logoColor=4ECDC4)](https://github.com/je7remy)
-[![Views](https://komarev.com/ghpvc/?username=je7remy&style=for-the-badge&color=4ECDC4&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/je7remy)
+<a href="mailto:je7remy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+</a>
+<a href="https://www.linkedin.com/in/jeremy-jos%C3%A9-de-la-cruz-p%C3%A9rez-0a49b9237/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+<a href="https://github.com/je7remy">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=je7remy&style=for-the-badge&color=38BDF8&labelColor=0f172a&label=VIEWS" />
 
 </div>
 
@@ -19,195 +27,216 @@
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="55%">
 
-### `〔 SOBRE MÍ 〕`
-
-</div>
-
-<br/>
+## 👤 Sobre mí
 
 Estudiante final de **Licenciatura en Informática** en la Universidad Nacional Pedro Henríquez Ureña. Especialista de soporte técnico en sector **legal y gubernamental**. Constructor de sistemas que resuelven problemas reales.
 
 Trabajo principalmente en **backend con Python**, infraestructura contenedorizada y bases de datos relacionales. Mi enfoque es la calidad por encima del volumen — tests, integración continua, documentación viva, decisiones técnicas justificadas.
 
 ```yaml
-location  :  La Vega, República Dominicana
+location  :  La Vega, República Dominicana  🇩🇴
 focus     :  Backend · Infrastructure · DevOps
 languages :  Spanish (native) · English (intermediate)
-status    :  Open to remote opportunities and collaboration
+status    :  Open to remote and collaboration
 ```
 
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:12px" alt="coding gif" />
+
+</td>
+</tr>
+</table>
+
 <br/>
 
----
-
-<div align="center">
-
-### `〔 PROYECTO DESTACADO 〕`
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e3a5f&height=3&section=header" width="100%"/>
 
 <br/>
+
+## 🏥 Proyecto Destacado
+
+<br/>
+
+<table>
+<tr>
+<td width="38%" valign="top" align="center">
 
 <a href="https://github.com/je7remy/HTQ_Citas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=je7remy&repo=HTQ_Citas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=c9d1d9" alt="HTQ_Citas repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=je7remy&repo=HTQ_Citas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94a3b8&border_radius=12" alt="HTQ_Citas"/>
 </a>
 
-</div>
+</td>
+<td width="62%" valign="top">
+
+**SGCM** — Plataforma web hospitalaria para automatizar la gestión de citas del Hospital Regional Traumatológico y Quirúrgico Prof. Juan Bosch, La Vega, RD.
 
 <br/>
 
-> 🏥 **SGCM** — Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital Regional Traumatológico y Quirúrgico Prof. Juan Bosch**, La Vega, RD.
+| Módulo | Detalle |
+|:---|:---|
+| 🔐 **Auth** | RBAC en dos capas · JWT con bcrypt |
+| 🗃️ **DB** | Índice único parcial · Auditoría inmutable · TIMESTAMPTZ |
+| ✅ **QA** | Suite Pytest · CI/CD en cada commit |
+| 🐳 **Infra** | 100% Docker + Nginx |
+
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=38BDF8"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:0f172a&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 🛠️ Stack Tecnológico
 
 <br/>
 
 <div align="center">
 
-| | Característica |
-|:---:|:---|
-| 🔐 | RBAC en dos capas · JWT con bcrypt |
-| 🗃️ | Índice único parcial para concurrencia · Auditoría transaccional inmutable |
-| 🕐 | Zonas horarias correctas con TIMESTAMPTZ |
-| ✅ | Suite de pruebas completa con Pytest · CI/CD en cada commit |
-| 🐳 | 100% contenedorizado con Docker + Nginx |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=4ECDC4)
-![SQLModel](https://img.shields.io/badge/SQLModel-0d1117?style=flat-square&logo=python&logoColor=4ECDC4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4ECDC4)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=4ECDC4)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=4ECDC4)
-![WeasyPrint](https://img.shields.io/badge/WeasyPrint-0d1117?style=flat-square&logo=python&logoColor=4ECDC4)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=4ECDC4)
-![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=4ECDC4)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=4ECDC4)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `〔 STACK TECNOLÓGICO 〕`
-
-<br/>
+<table>
+<tr>
+<td valign="top" align="center" width="25%">
 
 **Backend & Data**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4ECDC4)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=4ECDC4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4ECDC4)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=python&logoColor=4ECDC4)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=4ECDC4)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" alt="SQLAlchemy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
 
-<br/>
+</td>
+<td valign="top" align="center" width="25%">
 
-**Infrastructure & DevOps**
+**Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=4ECDC4)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=4ECDC4)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=4ECDC4)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4ECDC4)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=4ECDC4)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Actions"/>
 
-<br/>
+</td>
+<td valign="top" align="center" width="25%">
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4ECDC4)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=4ECDC4)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=4ECDC4)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=4ECDC4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=4ECDC4)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
 
-<br/>
+</td>
+<td valign="top" align="center" width="25%">
 
 **Other**
 
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=4ECDC4)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=4ECDC4)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=4ECDC4)
-![Godot](https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godotengine&logoColor=4ECDC4)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=4ECDC4)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" alt="Godot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Security"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e3a5f&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<br/>
 
 <div align="center">
 
-### `〔 GITHUB ACTIVITY 〕`
-
-<br/>
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9&icon_color=4ECDC4"/>
-<img height="165" src="https://streak-stats.demolab.com?user=je7remy&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4ECDC4&fire=4ECDC4&currStreakLabel=4ECDC4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=94a3b8&icon_color=38BDF8&border_radius=12" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=je7remy&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&border_radius=12" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9" width="38%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=94a3b8&border_radius=12" width="37%" alt="top langs"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=je7remy&bg_color=0d1117&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=je7remy&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=38BDF820&hide_border=true&radius=8" width="93%" alt="activity graph"/>
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:0f172a&height=3&section=header" width="100%"/>
 
-<div align="center">
+<br/>
 
-### `〔 EN ESTE MOMENTO 〕`
-
-</div>
+## 🔄 En este momento
 
 <br/>
 
 ```diff
-# Activo
+# ACTIVO
 + Tesis final: SGCM · sistema hospitalario de citas para HTQPJB
 + Deployment independiente en producción
 + Estudiando sistemas distribuidos y observabilidad
 
-# Pausado
+# PAUSADO
 - Game development con Godot Engine
 ```
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e3a5f&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 💡 Filosofía
+
+<br/>
 
 <div align="center">
 
-### `〔 FILOSOFÍA 〕`
-
-<br/>
-
-*"Code is communication.*
-*The first reader is always another human — often yourself in six months.*
-*Every architectural decision, every test, every line of documentation*
-*is a message to that future reader."*
-
-<br/>
-
-**Build systems that explain themselves.**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="quote"/>
 
 <br/><br/>
 
----
-
-<sub>Crafted with attention to detail in La Vega 🇩🇴 · <a href="mailto:je7remy@gmail.com">je7remy@gmail.com</a></sub>
+> *"Code is communication.*
+> *The first reader is always another human — often yourself in six months.*
+> *Every architectural decision, every test, every line of documentation*
+> *is a message to that future reader."*
+>
+> **— Build systems that explain themselves.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0a0a0a&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+<div align="center">
+<sub>Crafted with attention to detail in La Vega 🇩🇴 &nbsp;·&nbsp; <a href="mailto:je7remy@gmail.com">je7remy@gmail.com</a></sub>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0f172a,100:0d0d0d&height=130&section=footer" width="100%"/>
