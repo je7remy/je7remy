@@ -1,60 +1,51 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,30:0a0f1e,60:0d1b2a,100:112240&height=340&section=header&text=Jeremy%20de%20la%20Cruz&fontSize=52&fontColor=CDD6F4&fontAlign=50&fontAlignY=40&desc=%E2%97%8F%20%20Backend%20Engineer%20%20%E2%97%8F%20%20Infrastructure%20%20%E2%97%8F%20%20La%20Vega%2C%20RD&descSize=13&descColor=6C7086&descAlign=50&descAlignY=60&animation=twinkling&stroke=1B2B4B&strokeWidth=1" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:je7remy@gmail.com"><img src="https://img.shields.io/badge/─────────────────────────────────────────-0a0f1e?style=flat&labelColor=0a0f1e&color=0a0f1e" height="1"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0f1e,70:0f172a,100:1e1b4b&height=280&section=header&text=Jeremy%20de%20la%20Cruz&fontSize=50&fontColor=e2e8f0&fontAlign=50&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Infrastructure%20%C2%B7%20La%20Vega%2C%20RD%20%F0%9F%87%A9%F0%9F%87%B4&descSize=14&descColor=64748b&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=89B4FA&center=true&vCenter=true&multiline=false&width=560&lines=building+software+that+explains+itself+%E2%86%92;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+CI%2FCD;quality+over+volume+%E2%80%94+always.;currently+shipping+SGCM+%E2%86%92+htqpjb+hospital+%F0%9F%8F%A5" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=building+systems+that+explain+themselves+%E2%80%94;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+CI%2FCD;quality+over+volume.+always.;currently+shipping+SGCM+for+HTQPJB+%F0%9F%8F%A5)](https://github.com/je7remy)
 
-<br/><br/>
+<br/>
 
-<a href="mailto:je7remy@gmail.com"><img src="https://img.shields.io/badge/Gmail-11111b?style=for-the-badge&logo=gmail&logoColor=89B4FA&labelColor=11111b"/></a>
-<a href="https://www.linkedin.com/in/jeremy-jos%C3%A9-de-la-cruz-p%C3%A9rez-0a49b9237/"><img src="https://img.shields.io/badge/LinkedIn-11111b?style=for-the-badge&logo=linkedin&logoColor=89B4FA&labelColor=11111b"/></a>
-<a href="https://github.com/je7remy"><img src="https://img.shields.io/badge/GitHub-11111b?style=for-the-badge&logo=github&logoColor=89B4FA&labelColor=11111b"/></a>
-<img src="https://komarev.com/ghpvc/?username=je7remy&style=for-the-badge&color=89B4FA&labelColor=11111b&label=VIEWS"/>
+[![Gmail](https://img.shields.io/badge/Gmail-0f0f23?style=for-the-badge&logo=gmail&logoColor=818CF8)](mailto:je7remy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f23?style=for-the-badge&logo=linkedin&logoColor=818CF8)](https://www.linkedin.com/in/jeremy-jos%C3%A9-de-la-cruz-p%C3%A9rez-0a49b9237/)
+[![GitHub](https://img.shields.io/badge/@je7remy-0f0f23?style=for-the-badge&logo=github&logoColor=818CF8)](https://github.com/je7remy)
+[![Profile Views](https://komarev.com/ghpvc/?username=je7remy&style=for-the-badge&color=818CF8&labelColor=0f0f23&label=VIEWS)](https://github.com/je7remy)
 
 </div>
 
 <br/>
 
-<!-------- DIVIDER -------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11111b,100:11111b&height=1&section=header&reversal=false" width="100%"/>
+<!--- ═══════════════ ABOUT ═══════════════ --->
 
-<br/>
-
-<!-------- ABOUT -------->
-<table width="100%">
+<table width="100%" border="0">
 <tr>
-<td width="56%" valign="middle">
+<td width="55%" valign="middle">
 
 <h2>
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="26px" />
-  &nbsp;whoami
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="24"/>
+  &nbsp;Sobre mí
 </h2>
 
-Estudiante final de **Licenciatura en Informática** en la Universidad Nacional Pedro Henríquez Ureña. Especialista de soporte técnico en sector **legal y gubernamental**. Constructor de sistemas que resuelven problemas reales.
+Estudiante final de **Licenciatura en Informática** en la Universidad Nacional Pedro Henríquez Ureña. Especialista de soporte técnico en sector **legal y gubernamental**.
 
-Trabajo principalmente en **backend con Python**, infraestructura contenedorizada y bases de datos relacionales. Mi enfoque es la calidad por encima del volumen — tests, integración continua, documentación viva, decisiones técnicas justificadas.
+Constructor de sistemas que resuelven problemas reales — con enfoque en la calidad por encima del volumen: tests, CI/CD, documentación viva, decisiones técnicas justificadas.
 
 <br/>
 
 ```yaml
-location  :  La Vega, República Dominicana  🇩🇴
+location  :  La Vega, República Dominicana
 focus     :  Backend · Infrastructure · DevOps
+education :  UNPHU · Licenciatura Informática (final year)
 languages :  Spanish (native) · English (intermediate)
 status    :  Open to remote & collaboration
 ```
 
 </td>
-<td width="44%" valign="middle" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="290" alt="developer gif"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="developer"/>
 
 </td>
 </tr>
@@ -62,56 +53,59 @@ status    :  Open to remote & collaboration
 
 <br/>
 
-<!-------- DIVIDER -------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:112240,50:1B2B4B,100:112240&height=2&section=header" width="100%"/>
+<!--- ═══════════════ DIVIDER ═══════════════ --->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
 
 <br/>
 
-<!-------- PROJECT -------->
+<!--- ═══════════════ PROJECT ═══════════════ --->
+
 <div align="center">
 
-## 🏥 &nbsp;Proyecto Destacado
+## 🏥 &nbsp;Proyecto Destacado &nbsp;·&nbsp; SGCM
 
 <br/>
 
 <table width="90%">
 <tr>
-<td width="40%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
 <a href="https://github.com/je7remy/HTQ_Citas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=je7remy&repo=HTQ_Citas&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&title_color=89B4FA&icon_color=89B4FA&text_color=9399B2&border_radius=12" width="100%" alt="HTQ_Citas"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=je7remy&repo=HTQ_Citas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=8892b0&border_radius=10" width="100%"/>
 </a>
 
 <br/><br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-11111b?style=flat-square&logo=fastapi&logoColor=89B4FA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11111b?style=flat-square&logo=postgresql&logoColor=89B4FA)
-![Docker](https://img.shields.io/badge/Docker-11111b?style=flat-square&logo=docker&logoColor=89B4FA)
-![Nginx](https://img.shields.io/badge/Nginx-11111b?style=flat-square&logo=nginx&logoColor=89B4FA)
-![Tailwind](https://img.shields.io/badge/Tailwind-11111b?style=flat-square&logo=tailwindcss&logoColor=89B4FA)
-![Pytest](https://img.shields.io/badge/Pytest-11111b?style=flat-square&logo=pytest&logoColor=89B4FA)
-![GH Actions](https://img.shields.io/badge/CI/CD-11111b?style=flat-square&logo=githubactions&logoColor=89B4FA)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=818CF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=818CF8)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=818CF8)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=818CF8)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=818CF8)
+![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=818CF8)
+![GH Actions](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=818CF8)
+![WeasyPrint](https://img.shields.io/badge/WeasyPrint-0d1117?style=flat-square&logo=python&logoColor=818CF8)
+![SQLModel](https://img.shields.io/badge/SQLModel-0d1117?style=flat-square&logo=python&logoColor=818CF8)
 
 </td>
-<td width="60%" valign="top" padding="20">
+<td width="58%" valign="middle" style="padding-left:20px">
+
+Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital Regional Traumatológico y Quirúrgico Prof. Juan Bosch**, La Vega, RD.
 
 <br/>
 
-**SGCM** &mdash; Plataforma web hospitalaria para automatizar la gestión de citas del Hospital Regional Traumatológico y Quirúrgico **Prof. Juan Bosch**, La Vega, República Dominicana.
+| &nbsp; | Feature |
+|:---:|:---|
+| 🔐 | RBAC en dos capas · JWT con bcrypt |
+| 🗄️ | Índice único parcial · Auditoría inmutable |
+| 🕐 | TIMESTAMPTZ · zonas horarias correctas |
+| ✅ | 39 tests Pytest · cobertura amplia · 5 archivos |
+| 🔄 | GitHub Actions CI/CD en cada commit |
+| 🐳 | 100% Docker + Nginx · WeasyPrint PDFs |
 
 <br/>
 
-<table width="100%">
-<tr><td><code>🔐 Auth</code></td><td>RBAC en dos capas · JWT con bcrypt</td></tr>
-<tr><td><code>🗄️  DB</code></td><td>Índice único parcial · Auditoría inmutable · TIMESTAMPTZ</td></tr>
-<tr><td><code>✅  QA</code></td><td>39 tests Pytest · cobertura amplia</td></tr>
-<tr><td><code>🔄 CI</code></td><td>GitHub Actions en cada commit</td></tr>
-<tr><td><code>🐳 Infra</code></td><td>100% Docker + Nginx · WeasyPrint</td></tr>
-</table>
-
-<br/>
-
-> *15 casos de uso · 3 roles RBAC · JWT auth · 5 archivos de prueba*
+> *15 casos de uso · 3 roles RBAC · JWT auth*
 
 </td>
 </tr>
@@ -121,106 +115,128 @@ status    :  Open to remote & collaboration
 
 <br/>
 
-<!-------- DIVIDER -------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:112240,50:1B2B4B,100:112240&height=2&section=header" width="100%"/>
+<!--- ═══════════════ DIVIDER ═══════════════ --->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
 
 <br/>
 
-<!-------- STACK -------->
+<!--- ═══════════════ STACK ═══════════════ --->
+
 <div align="center">
 
-## 🛠️ &nbsp;Stack
+## 🛠️ &nbsp;Stack Tecnológico
 
 <br/>
 
-<table>
-<tr>
+**── Backend & Data ──**
 
-<td align="center" width="130">
-<b>Backend & Data</b><br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36"/>
-</td>
+<br/>
 
-<td align="center" width="130">
-<b>Infrastructure</b><br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
-</td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="42" title="SQLAlchemy"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" title="SQLite"/>
 
-<td align="center" width="130">
-<b>Frontend</b><br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
 <br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>
-</td>
 
-<td align="center" width="130">
-<b>Other</b><br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="36"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="36"/>
-</td>
+**── Infrastructure & DevOps ──**
 
-</tr>
-</table>
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" title="Nginx"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub Actions"/>
+
+<br/><br/>
+
+**── Frontend ──**
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap"/>
+
+<br/><br/>
+
+**── Other ──**
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" title="C#"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" title="PHP"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="42" title="Godot Engine"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="42" title="Arch Linux / Hyprland"/>
 
 </div>
 
 <br/>
 
-<!-------- DIVIDER -------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:112240,50:1B2B4B,100:112240&height=2&section=header" width="100%"/>
+<!--- ═══════════════ DIVIDER ═══════════════ --->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
 
 <br/>
 
-<!-------- STATS -------->
+<!--- ═══════════════ STATS ═══════════════ --->
+
 <div align="center">
 
-## 📈 &nbsp;GitHub Activity
+## 📊 &nbsp;GitHub Stats
 
 <br/>
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&title_color=89B4FA&text_color=9399B2&icon_color=89B4FA&ring_color=89B4FA&border_radius=12" alt="stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=je7remy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=8892b0&icon_color=818CF8&border_radius=10" alt="stats"/>
 &nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=je7remy&theme=catppuccin-mocha&hide_border=true&background=11111b&ring=89B4FA&fire=89B4FA&currStreakLabel=89B4FA&sideLabels=9399B2&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=6C7086&border_radius=12" alt="streak"/>
+<img height="165" src="https://streak-stats.demolab.com?user=je7remy&theme=tokyonight&hide_border=true&background=0d1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=8892b0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=4a5568&border_radius=10" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&title_color=89B4FA&text_color=9399B2&border_radius=12" width="36%" alt="top langs"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=je7remy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=8892b0&border_radius=10" width="36%" alt="top langs"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=je7remy&bg_color=11111b&color=89B4FA&line=89B4FA&point=CDD6F4&area=true&area_color=89B4FA20&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="92%" alt="activity"/>
+<img src="https://github-profile-trophy.vercel.app/?username=je7remy&theme=tokyonight&no-frame=true&column=6&margin-w=6&margin-h=6" width="88%" alt="trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=je7remy&bg_color=0d1117&color=818CF8&line=818CF8&point=e2e8f0&area=true&area_color=818CF820&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="92%" alt="activity"/>
 
 </div>
 
 <br/>
 
-<!-------- DIVIDER -------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:112240,50:1B2B4B,100:112240&height=2&section=header" width="100%"/>
+<!--- ═══════════════ DIVIDER ═══════════════ --->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
 
 <br/>
 
-<!-------- STATUS -------->
+<!--- ═══════════════ STATUS ═══════════════ --->
+
 <div align="center">
 
 ## ⚡ &nbsp;En este momento
@@ -230,32 +246,32 @@ status    :  Open to remote & collaboration
 <br/>
 
 ```diff
-@@  ACTIVO                                                          @@
-
+@@  ACTIVO                                                        @@
 + Tesis final: SGCM · sistema hospitalario de citas para HTQPJB
 + Deployment independiente en producción
 + Estudiando sistemas distribuidos y observabilidad
 
-@@  PAUSADO                                                         @@
-
+@@  PAUSADO                                                       @@
 - Game development con Godot Engine
 ```
 
 <br/>
 
-<!-------- DIVIDER -------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:112240,50:1B2B4B,100:112240&height=2&section=header" width="100%"/>
+<!--- ═══════════════ DIVIDER ═══════════════ --->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=2&section=header" width="100%"/>
 
 <br/>
 
-<!-------- PHILOSOPHY -------->
+<!--- ═══════════════ PHILOSOPHY ═══════════════ --->
+
 <div align="center">
 
 ## 💭 &nbsp;Filosofía
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="28"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=2000&color=4a5568&center=true&vCenter=true&width=700&lines=%22Code+is+communication.%22;%22The+first+reader+is+always+another+human.%22;%22Every+decision+is+a+message+to+your+future+self.%22;%22Build+systems+that+explain+themselves.%22" alt="philosophy"/>
 
 <br/><br/>
 
@@ -266,14 +282,18 @@ status    :  Open to remote & collaboration
 
 <br/>
 
-**Build systems that explain themselves.**
+**— Build systems that explain themselves.**
 
 <br/><br/>
 
-<sub>Crafted with obsession · La Vega, República Dominicana 🇩🇴 · <a href="mailto:je7remy@gmail.com">je7remy@gmail.com</a></sub>
-
-<br/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0a0f1e,70:112240,100:1B2B4B&height=140&section=footer&reversal=false" width="100%"/>
+<!--- ═══════════════ JAPANESE ART DIVIDER ═══════════════ --->
+
+<a href="https://github.com/je7remy">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0f1e,80:1e1b4b,100:312e81&height=140&section=footer" width="100%"/>
+</a>
+
+<div align="center">
+<sub>Crafted with obsession · La Vega, República Dominicana 🇩🇴 · <a href="mailto:je7remy@gmail.com">je7remy@gmail.com</a></sub>
+</div>
