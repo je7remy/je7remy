@@ -99,14 +99,14 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 <br/>
 
 | &nbsp; | Feature |
-|:---:|:---|
-| 🔐 | RBAC en dos capas · JWT con bcrypt |
-| 🗄️ | Índice único parcial · Auditoría inmutable |
-| 🕐 | TIMESTAMPTZ · zonas horarias correctas |
-| ✅ | 39 tests Pytest · cobertura amplia · 5 archivos |
-| 🔄 | GitHub Actions CI/CD en cada commit |
-| 🐳 | 100% Docker + Nginx · WeasyPrint PDFs |
-
+  |:---:|:---|
+  | 🔐 | RBAC en dos capas · JWT con bcrypt |
+  | 🗄️ | Índice único parcial · Auditoría inmutable |
+  | 💾 | CU-16 Respaldos · local/externo · SHA-256 |
+  | 📊 | Agenda extendida · PDF + Excel + impresión |
+  | ✅ | 155 tests Pytest · 17 archivos · CI/CD activo |
+  | 🐳 | Docker + Nginx · WeasyPrint PDFs |
+  
 <br/>
 
 > *16 casos de uso · 3 roles RBAC · JWT auth*
