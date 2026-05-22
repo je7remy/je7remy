@@ -250,15 +250,25 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 
 <br/>
 
-```diff
 @@  ACTIVO                                                        @@
 + Tesis final: SGCM · sistema hospitalario de citas para HTQPJB
 + Deployment independiente en producción
 + Estudiando sistemas distribuidos y observabilidad
++ Desarrollo full stack orientado a automatización y trazabilidad
++ Administración y soporte de infraestructura hospitalaria
++ Integración de reportes con auditoría por usuario
++ Gestión de redes, impresoras y escáneres en entornos empresariales
++ Automatización post-instalación de entornos Windows/Linux
++ Optimización y mantenimiento de bases de datos y sistemas internos
++ Git avanzado: reescritura de historial, limpieza de commits y authorship
++ Explorando arquitectura escalable y monitoreo de servicios
++ Gaming PC enthusiast · hardware tuning y rendimiento 1080p/1440p
++ Construyendo workflows eficientes para desarrollo y soporte TI
 
 @@  PAUSADO                                                       @@
 - Game development con Godot Engine
-```
+- Proyectos experimentales de videojuegos estilo survival/horror
+- Ideas de tooling personalizado para desarrollo indie
 
 <br/>
 
