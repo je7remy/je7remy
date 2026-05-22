@@ -250,6 +250,7 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 
 <br/>
 
+```
 @@  ACTIVO                                                        @@
 + Tesis final: SGCM · sistema hospitalario de citas para HTQPJB
 + Deployment independiente en producción
@@ -271,6 +272,7 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 - Ideas de tooling personalizado para desarrollo indie
 
 <br/>
+```
 
 <!--- ═══════════════ DIVIDER ═══════════════ --->
 
