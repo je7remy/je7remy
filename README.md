@@ -271,7 +271,6 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 - Proyectos experimentales de videojuegos estilo survival/horror
 - Ideas de tooling personalizado para desarrollo indie
 
-<br/>
 ```
 
 <!--- ═══════════════ DIVIDER ═══════════════ --->
