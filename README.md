@@ -250,7 +250,7 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 
 <br/>
 
-```
+```diff
 @@  ACTIVO                                                        @@
 + Tesis final: SGCM · sistema hospitalario de citas para HTQPJB
 + Deployment independiente en producción
