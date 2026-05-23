@@ -104,7 +104,7 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
   | 🗄️ | Índice único parcial · Auditoría inmutable |
   | 💾 | CU-16 Respaldos · local/externo · SHA-256 |
   | 📊 | Agenda extendida · PDF + Excel + impresión |
-  | ✅ | 155 tests Pytest · 17 archivos · CI/CD activo |
+  | ✅ | 197 tests Pytest · 20 archivos · CI/CD activo |
   | 🐳 | Docker + Nginx · WeasyPrint PDFs |
   
 <br/>
