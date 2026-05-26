@@ -300,7 +300,7 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 
 <br/>
 
-**— Build systems that explain themselves. **
+**— Build systems that explain themselves.**
 
 <br/><br/>
 
