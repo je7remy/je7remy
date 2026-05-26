@@ -296,10 +296,11 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 *The first reader is always another human — often yourself in six months.*
 *Every architectural decision, every test, every line of documentation*
 *is a message to that future reader."*
+*— Build systems that explain themselves. *
 
 <br/>
 
-**— Build systems that explain themselves.**
+**— Build systems that explain themselves. **
 
 <br/><br/>
 
