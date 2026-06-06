@@ -85,6 +85,7 @@ status    :  Open to remote & collaboration
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=818CF8)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=818CF8)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=818CF8)
+![TLS](https://img.shields.io/badge/TLS%2FHTTPS-0d1117?style=flat-square&logo=letsencrypt&logoColor=818CF8)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=818CF8)
 ![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=818CF8)
 ![GH Actions](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=818CF8)
@@ -100,17 +101,18 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 
 | &nbsp; | Feature |
 |:---:|:---|
-| 🔐 | RBAC en dos capas · JWT con bcrypt |
+| 🔐 | RBAC en dos capas · JWT con bcrypt (cost 12) |
+| 🔒 | Nginx con terminación TLS · HTTPS en intranet |
 | 🗄️ | Índice único parcial · Auditoría inmutable |
 | 💾 | CU-16 Respaldos · local/externo · SHA-256 |
 | 📋 | CU-17 Especialidades · catálogo administrable |
 | 📊 | Agenda extendida · PDF + Excel + trazabilidad usuario |
 | ✅ | 197 tests Pytest · 18 archivos · CI/CD activo |
-| 🐳 | Docker + Nginx · WeasyPrint PDFs |
+| 🐳 | Docker + Nginx (TLS) · WeasyPrint PDFs |
   
 <br/>
 
-> *17 casos de uso · 3 roles RBAC · JWT auth*
+> *17 casos de uso · 3 roles RBAC · 9 tablas · JWT auth*
 
 </td>
 </tr>
