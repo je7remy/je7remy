@@ -230,7 +230,7 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/je7remy/je7remy/main/assets/trophies.png"
-    width="70%"
+    width="85%"
     alt="Legendary Trophies"
   />
 </p>
