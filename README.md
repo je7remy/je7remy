@@ -227,7 +227,13 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 </p>
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=je7remy&theme=tokyonight&no-frame=true&column=6&margin-w=6&margin-h=6" width="88%" alt="trophies"/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/je7remy/je7remy/main/assets/trophies.png"
+    width="88%"
+    alt="Legendary Trophies"
+  />
+</p>
 
 <br/><br/>
 
