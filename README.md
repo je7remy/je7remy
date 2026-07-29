@@ -102,17 +102,19 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 | &nbsp; | Feature |
 |:---:|:---|
 | 🔐 | RBAC en dos capas · JWT con bcrypt (cost 12) |
-| 🔒 | Nginx con terminación TLS · HTTPS en intranet |
-| 🗄️ | Índice único parcial · Auditoría inmutable |
+| 🔒 | TLS 1.2/1.3 + HSTS · HTTPS en intranet |
+| 🗄️ | Índice único parcial · 7 migraciones Alembic |
+| 🕵️ | Auditoría inmutable · registro de IP de origen |
+| 🩺 | Historial clínico por paciente y médico |
+| 📊 | 5 reportes PDF (WeasyPrint) · exportación Excel |
 | 💾 | CU-16 Respaldos · local/externo · SHA-256 |
 | 📋 | CU-17 Especialidades · catálogo administrable |
-| 📊 | Agenda extendida · PDF + Excel + trazabilidad usuario |
-| ✅ | 197 tests Pytest · 18 archivos · CI/CD activo |
-| 🐳 | Docker + Nginx (TLS) · WeasyPrint PDFs |
+| ✅ | 212 tests Pytest · 18 archivos · CI/CD activo |
+| 🐳 | Docker Compose · despliegue reproducible |
   
 <br/>
 
-> *17 casos de uso · 3 roles RBAC · 9 tablas · JWT auth*
+> *17 casos de uso · 50 endpoints REST · 3 roles RBAC · 9 tablas*
 
 </td>
 </tr>
