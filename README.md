@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=building+systems+that+explain+themselves+%E2%80%94;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+CI%2FCD;quality+over+volume.+always.;currently+shipping+SGCM+for+HTQPJB+%F0%9F%8F%A5)](https://github.com/je7remy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=building+systems+that+explain+themselves+%E2%80%94;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+CI%2FCD;quality+over+volume.+always.;SGCM+shipped+%C2%B7+thesis+defended+with+A%2B+%F0%9F%8E%93)](https://github.com/je7remy)
 
 <br/>
 
@@ -28,7 +28,7 @@
   &nbsp;Sobre mí
 </h2>
 
-Estudiante final de **Licenciatura en Informática** en la Universidad Nacional Pedro Henríquez Ureña. Especialista de soporte técnico en sector **legal y gubernamental**.
+**Licenciado en Informática** por la Universidad Nacional Pedro Henríquez Ureña. Especialista de soporte técnico en sector **legal y gubernamental**.
 
 Constructor de sistemas que resuelven problemas reales — con enfoque en la calidad por encima del volumen: tests, CI/CD, documentación viva, decisiones técnicas justificadas.
 
@@ -37,7 +37,7 @@ Constructor de sistemas que resuelven problemas reales — con enfoque en la cal
 ```yaml
 location  :  La Vega, República Dominicana
 focus     :  Backend · Infrastructure · DevOps
-education :  UNPHU · Licenciatura Informática (final year)
+education :  UNPHU · Licenciatura en Informática (2026)
 languages :  Spanish (native) · English (intermediate)
 status    :  Open to remote & collaboration
 ```
@@ -96,6 +96,8 @@ status    :  Open to remote & collaboration
 <td width="58%" valign="middle" style="padding-left:20px">
 
 Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital Regional Traumatológico y Quirúrgico Prof. Juan Bosch**, La Vega, RD.
+
+Trabajo final de grado — defendido y aprobado con **A+** · UNPHU La Vega, 2026.
 
 <br/>
 
@@ -262,8 +264,11 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 <br/>
 
 ```diff
+@@  COMPLETADO                                                    @@
++ Lic. en Informática · UNPHU La Vega · 2026
++ Tesis SGCM · sistema hospitalario de citas para HTQPJB · A+
+
 @@  ACTIVO                                                        @@
-+ Tesis final: SGCM · sistema hospitalario de citas para HTQPJB
 + Deployment independiente en producción
 + Estudiando sistemas distribuidos y observabilidad
 + Desarrollo full stack orientado a automatización y trazabilidad
@@ -306,7 +311,6 @@ Plataforma web hospitalaria para automatizar la gestión de citas del **Hospital
 *The first reader is always another human — often yourself in six months.*
 *Every architectural decision, every test, every line of documentation*
 *is a message to that future reader."*
-*— Build systems that explain themselves. *
 
 <br/>
 
